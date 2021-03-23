@@ -4,7 +4,7 @@ TagNN
 [![Build Status](https://img.shields.io/badge/release-0.1-orange)](https://github.com/arcunique/TagNN)
 [![Python 2.7](https://img.shields.io/badge/python-3.7-blue.svg)](https://www.python.org/downloads/release/python-371/)
 
-TagNN is a code developed to calculate the presssure-temperature profile of the atmosphere of a T-dwarf (Methane brown
+__TagNN__ (T-dwarf Atmospheric Grid using Neural Network) is a code developed to calculate the presssure-temperature profile of the atmosphere of a T-dwarf (Methane brown
 dwarf) from the grid of pressure-temperature profiles of the T-dwarfs, calculated for different values of effective 
 temperature (Teff), surface gravity (g) and metallicity ([Fe/H]). These grids have been developed by
 [Marley 2000](http://articles.adsabs.harvard.edu/pdf/2000ASPC..212..152M) and used by

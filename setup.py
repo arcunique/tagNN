@@ -3,7 +3,7 @@ import TagNN
 
 setup(name='TagNN',
       version=TagNN.__version__,
-      description='A Python package to calculate the pressure-temperature grid of the atmospheres of the T-type brown'
+      description='T-dwarf Atmospheric Grid using Neural Network: A code to calculate the pressure-temperature grid of the atmospheres of the T-type brown'
                   ' dwarfs using Neural Networks.',
       long_description=open('README.md').read(),
       classifiers=['Development Status :: 0 - Alpha',
